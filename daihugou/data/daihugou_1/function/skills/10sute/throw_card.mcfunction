@@ -7,3 +7,4 @@ playsound minecraft:entity.item.break master @s ~ ~ ~ 1 1
 
 # モード解除
 tag @s remove mode_throw10
+scoreboard players remove @s useRod 0
